@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 3df97334b03b43549b0c52bfd5e4828b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: end_tel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b95063a37f276043b723de427877a10
+      internalID: -1514065485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1280
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c74a7950f6fa64aaaeeeda4acb6c3c
+      internalID: -1435096834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1280
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026501ba70ceda845aa94704cc3b365b
+      internalID: 214940426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_3
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1280
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b291cda77959274e90bde43196a8092
+      internalID: 1677797499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7573200850150224c88689e7259670c2
+      internalID: -1465951616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 960
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea0503e38c9f084eb752e36c857f5d1
+      internalID: 1980376805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_6
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 960
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1d8cf1ce981b047afaaa33aa228589
+      internalID: 1029413621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 960
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273381a255121f649bdb9892d47c3fca
+      internalID: 1274724719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbec533e82d7a248b98cab3dc3d9026
+      internalID: 632988201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 640
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45113c8cb0fce4244a3f3e4c9dc4932a
+      internalID: 1001090466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 640
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749fdb65f026e8244b137de6d5476c25
+      internalID: 1498148269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_11
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 640
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e4d1f64d3ae3d46ac2592577405d0a
+      internalID: 1448456493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a31c611004fc364e9750662cc6e7cf2
+      internalID: -1130553878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 320
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4870ae1103536e40870d4c218f1d46d
+      internalID: -1650813510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_14
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 320
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da064eddb7d9436458558c6fe53f62d4
+      internalID: -1424025315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_15
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 320
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae52ab8832705449aef59e6b6bd62ea
+      internalID: -1082187886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04090ea3b686a494ebde069c2a913047
+      internalID: 40218623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12440878cbbd01a409badb56c61428ba
+      internalID: 980587269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_18
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763295e019181be468d76fc834173aca
+      internalID: 722958871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end_tel_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 308
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5342, y: 0.4515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f7ce3052313c744abd58a690b66b20
+      internalID: -836766690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      end_tel_0: -1514065485
+      end_tel_1: -1435096834
+      end_tel_10: 1498148269
+      end_tel_11: 1448456493
+      end_tel_12: -1130553878
+      end_tel_13: -1650813510
+      end_tel_14: -1424025315
+      end_tel_15: -1082187886
+      end_tel_16: 40218623
+      end_tel_17: 980587269
+      end_tel_18: 722958871
+      end_tel_19: -836766690
+      end_tel_2: 214940426
+      end_tel_3: 1677797499
+      end_tel_4: -1465951616
+      end_tel_5: 1980376805
+      end_tel_6: 1029413621
+      end_tel_7: 1274724719
+      end_tel_8: 632988201
+      end_tel_9: 1001090466
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

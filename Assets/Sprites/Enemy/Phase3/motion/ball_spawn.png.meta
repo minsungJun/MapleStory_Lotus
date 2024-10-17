@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: bcd0ca907d704254c96ee414e593d3e8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ball_spawn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3924
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f3babcc741d42459a0612d5631eb18
+      internalID: 1004773625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3924
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe36b048a4a3f474eb9460292109062c
+      internalID: -1611849347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3924
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a3d2ca2e3014342a7bec16490ba0de
+      internalID: 1587042554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_3
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 3924
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f975dcaf9c4784fa15ce66e07c24e0
+      internalID: 236869386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3270
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e240a50c7055e4faed583e74922815
+      internalID: 142188296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3270
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6a7bcce4cdccc4aa0f954d16d60e4c
+      internalID: 828674238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3270
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4803062010facb448c18ce7b11132ef
+      internalID: 2140462134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_7
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 3270
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223025979646eb848be2937cb3a814a2
+      internalID: -394089480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2616
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772ec79305a68e54db8b48c5d838b049
+      internalID: -2044917705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_9
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2616
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a9a01a61668e344a5ba26d8243d073
+      internalID: 703764422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_10
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2616
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897512dfab1dfad46b3fd3d83fa14973
+      internalID: -1080112817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_11
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 2616
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff9e07bb6928914fafa73180efb4b56
+      internalID: 896025487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1962
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858727ea924c7114ca191ee65e914341
+      internalID: -1973202408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1962
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3599b2be2fb2e194289dba7a495ca134
+      internalID: 45319859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_14
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1962
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6140cd982569945bfa2bf08f57bff0
+      internalID: -624191555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_15
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1962
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79021a50c0acdf4f9919ed70512a0bb
+      internalID: -856368456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1308
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a1412d559846f45b15816f58a7775f
+      internalID: -200161139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1308
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a24e2d77f505714595793d339bc8747
+      internalID: -1436562330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_18
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1308
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb40bcceff1bd45a5e5196f8a58c11
+      internalID: -1768395922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_19
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1308
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7403579c72bdf419bbd9dbfe25c6f0
+      internalID: 1026354138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 654
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20414f2b18336aa44b0e0b22c7cb93e2
+      internalID: -2097746925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 654
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3ee69c8ee160946afc2d919f85e223
+      internalID: 1679733212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 654
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248792a6c6566294d8c250d6060441a9
+      internalID: 1442092407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_23
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 654
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a7e504c84b79541bf6cb095895b9b9
+      internalID: 784280969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0212c264d4a6f8d4c9b23c031299414e
+      internalID: 294085040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball_spawn_25
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 388
+        height: 654
+      alignment: 9
+      pivot: {x: 0.51675, y: 0.1995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6068dfa14970d43aa185d9dc81fd47
+      internalID: 1768828010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ball_spawn_0: 1004773625
+      ball_spawn_1: -1611849347
+      ball_spawn_10: -1080112817
+      ball_spawn_11: 896025487
+      ball_spawn_12: -1973202408
+      ball_spawn_13: 45319859
+      ball_spawn_14: -624191555
+      ball_spawn_15: -856368456
+      ball_spawn_16: -200161139
+      ball_spawn_17: -1436562330
+      ball_spawn_18: -1768395922
+      ball_spawn_19: 1026354138
+      ball_spawn_2: 1587042554
+      ball_spawn_20: -2097746925
+      ball_spawn_21: 1679733212
+      ball_spawn_22: 1442092407
+      ball_spawn_23: 784280969
+      ball_spawn_24: 294085040
+      ball_spawn_25: 1768828010
+      ball_spawn_3: 236869386
+      ball_spawn_4: 142188296
+      ball_spawn_5: 828674238
+      ball_spawn_6: 2140462134
+      ball_spawn_7: -394089480
+      ball_spawn_8: -2044917705
+      ball_spawn_9: 703764422
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

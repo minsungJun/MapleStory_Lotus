@@ -1,0 +1,2027 @@
+fileFormatVersion: 2
+guid: e26e5213e2c57f94cb9c6cce4f3d95c3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: purple_acting_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5067
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89a9f958ccfb9140a8eea7d5fe55a50
+      internalID: 1394671644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_1
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 5067
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e16562a966c52b488ddd2f0f56cf297
+      internalID: 574194905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_2
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 5067
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1f1e9f773e91b4b853875fce3d3aee
+      internalID: -600071907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_3
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 5067
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eead3a84102114e99c7aa336cea2dd
+      internalID: -1471399146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_4
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 5067
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88482dd289e6ebf45921fa311783bee2
+      internalID: 1480772624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_5
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 5067
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5145d7641db50d443994ccfdba86c64a
+      internalID: 927068828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_6
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 5067
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c86d938b8d24240bfdc13ce33b5e35
+      internalID: -307805683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_7
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 5067
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd04fbfe9e292746a381af182518612
+      internalID: -984148402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_8
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 5067
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3597d5e3b8ed1408106e4954118660
+      internalID: 197620251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4504
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5f0e19c99696e488cd90e05969a329
+      internalID: -1081421145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_10
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 4504
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b61575524017f148aec64a294376f89
+      internalID: -1613060500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_11
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 4504
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126d6d4574d882b4d82be433a9543dbc
+      internalID: 205744441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_12
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 4504
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e98347efcf644c8c5aad6c01a23f3
+      internalID: -543853152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_13
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 4504
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5615a4d00f6be040b359b1f2f04b8f8
+      internalID: 1705466665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_14
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 4504
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7772f5c06b5d774f9c10f91b04cb872
+      internalID: 1163988183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_15
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 4504
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4895fee4ebb524389fa9875128a18d
+      internalID: -20877124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_16
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 4504
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3493ace9db818443864990a6ff0aaa8
+      internalID: 1776330523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_17
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 4504
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eab4adf3346de4894954e87f7cef90
+      internalID: 37515569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3941
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0abd33b9cf17264bb94633756d9caa2
+      internalID: -158004223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_19
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3941
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097b484c32a5f9b41b15e453da71cd02
+      internalID: -416814077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_20
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 3941
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56d6920ffb6cf441bee8ebe15000305
+      internalID: -1102635400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_21
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 3941
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb241b237fe8c734d84d5c241b940c6c
+      internalID: -771140805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_22
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 3941
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3317a76136d6a47a0c147afce43ea9
+      internalID: 1838373456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_23
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 3941
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfbd9912c9329c419d6b07f83d947c8
+      internalID: 743921855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_24
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 3941
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a0ee80250154d4ebdb49ca5cb9296d
+      internalID: -1753487198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_25
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 3941
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3a32ee3c2e6e1409eea71800954e9e
+      internalID: -1722006372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_26
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 3941
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8d56f7bd3f14c42b758e3916610302
+      internalID: -2135536792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3378
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209123deaee65da4792be3a398c3ecc9
+      internalID: 372780658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_28
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3378
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33f07b704eb6e041bb0850238bea26d
+      internalID: 1925115053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_29
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 3378
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232f2c05b7416f4ba46ee128f06a015
+      internalID: 967465848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_30
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 3378
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0193f08e8d92f14db65885b057dba46
+      internalID: 810889085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_31
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 3378
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee291d6cdf1bb85449a6aaa2b4f46f2c
+      internalID: -520907148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_32
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 3378
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12013b34b77c15a45bc8946d64f64f4f
+      internalID: -1321913815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_33
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 3378
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd616022c92bc5240903c8be4c861861
+      internalID: 30219407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_34
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 3378
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ab5e565a64f284899e8a19e41faff5
+      internalID: 1589375003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_35
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 3378
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed7ea33c5df654a9c147b212b8a9db
+      internalID: 1858832395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2815
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a054b4ce9cfdab340a58617ba58896b0
+      internalID: -536201991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_37
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2815
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958bc6559894b994e9a624f51cc4a707
+      internalID: 1035767643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_38
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 2815
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f523ca09455f34883b9567844a4c9c
+      internalID: -1544686313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_39
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 2815
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757b57841134cc541a25636a70a2db37
+      internalID: 87095920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_40
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 2815
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6bf4b70f0f69549bd558486ef9f860
+      internalID: -1051334582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_41
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 2815
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544d13c58a8dbc7439e29f3665791049
+      internalID: -1141697128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_42
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 2815
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc6eed1ed259a4d8eced1a5ae3458e
+      internalID: 1251338417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_43
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 2815
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32dfdd663e2c0b47bd2c91e2035cb19
+      internalID: 1726974918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_44
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 2815
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e4b5a6cb90fe04080bc52e88ea4671
+      internalID: 1569785529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2252
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0be08f3eff784e4b83b70ac02302902
+      internalID: 232860775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_46
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2252
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9572c8423444f4a8c6a94fce0f1199
+      internalID: 2041233821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_47
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 2252
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1147f88c6db12645872cb6a20da838a
+      internalID: -857976580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_48
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 2252
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6a5f1cf3b5b744b9c0925adc769d9f
+      internalID: 728806265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_49
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 2252
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536193f6a19c4864580a02dadf8902f2
+      internalID: 1398736095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_50
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 2252
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf68a23ffde42b4d8a6da99803704c8
+      internalID: 1406828138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_51
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 2252
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b8bd0bfb9fcfa41975410c6479187d
+      internalID: 770158605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_52
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 2252
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3919134bfa7383c4d8d44b085b7fdebb
+      internalID: -2089601468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_53
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 2252
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ce376e50592043b05ac54baa452de
+      internalID: 2141252134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1689
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84155cab56a351a41bc56444e2a873bf
+      internalID: -1719400106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_55
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1689
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26416baa95f0ad3458303f99c42802da
+      internalID: -302706922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_56
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1689
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29aa3a6887d8814b8953f38dbc2ad52
+      internalID: 1327607209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_57
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1689
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b618c2f9a5023b34d91500b276fa1d07
+      internalID: 1875694683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_58
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1689
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a538efe8fad27db4a8f7984b295caa1a
+      internalID: 2123339493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_59
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1689
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30423002ebdc8fe489605b10b11a9bba
+      internalID: 615230498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_60
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 1689
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c75fa9fe77254f4484f02a56f9cbd18
+      internalID: -1507426631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_61
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 1689
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d324e6ad131d4814ab1c31e40fd7ecd8
+      internalID: -1335625606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_62
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 1689
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0733015c2b92aa641bc567076b5f608f
+      internalID: -1129878375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1126
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dec68315e698d149b428f592837fded
+      internalID: -955029648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_64
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1126
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6483e4bd52894fa6e16f4dc01b1e4
+      internalID: 1011992036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_65
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1126
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1b486a03df77b40b13ab242b334daa
+      internalID: -283424972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_66
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1126
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76c65b2f2594ad40ace39465bd06a88
+      internalID: -1150673488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_67
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1126
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411de666139e5984db1ee41e2216d5da
+      internalID: 500388414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_68
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1126
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ba5c25c39d80b49af2ccfe388c7a3a
+      internalID: -1459093198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_69
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 1126
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dd21627c21a814ab7184a09fbfb208
+      internalID: 1751382793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_70
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 1126
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b8be8d252b02e498f34c676b46aead
+      internalID: 1902510269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_71
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 1126
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691a5be9ba897ed4fa7d499476f1d843
+      internalID: 1318235745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dcd099eda1d6e49ab56c2a24c45d33
+      internalID: -1446516996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_73
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 563
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7c5de54d2e38d4eabb06c0070ae138
+      internalID: 470942842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_74
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 563
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f4b86fc2ed7e544882e23b36ccd14b
+      internalID: 524633389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_75
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 563
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd60d63a1f992f540a1bf7df76712532
+      internalID: -2073565681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_76
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 563
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc05d82b8f52a0458070d37b4878e99
+      internalID: -247752514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_77
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 563
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413d4c76ef0cc51438dba8c12340bb3d
+      internalID: -378653745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_78
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 563
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ea2e993c841f745849a3c2c1d77f93
+      internalID: 298971519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_79
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 563
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83032559942a22b4cbe0e32f1db856b4
+      internalID: 1601881020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_80
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 563
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf6abd2d481e964d9317b7a1c771345
+      internalID: 906233515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bad9c0c8ed2c14488bd5938c4dee28
+      internalID: -2140762466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_82
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f02abe30f367842922c97828c20c09
+      internalID: -999803503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_83
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 0
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a3a68913726b47a2591d920c9819e
+      internalID: 324726552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_84
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 0
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982aab83d10cb9544b57f8075af7a396
+      internalID: -1526333591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purple_acting_85
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 0
+        width: 687
+        height: 563
+      alignment: 9
+      pivot: {x: 0.4, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97555b8a33e63124798779c5bbbb2e43
+      internalID: 1373168718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      purple_acting_0: 1394671644
+      purple_acting_1: 574194905
+      purple_acting_10: -1613060500
+      purple_acting_11: 205744441
+      purple_acting_12: -543853152
+      purple_acting_13: 1705466665
+      purple_acting_14: 1163988183
+      purple_acting_15: -20877124
+      purple_acting_16: 1776330523
+      purple_acting_17: 37515569
+      purple_acting_18: -158004223
+      purple_acting_19: -416814077
+      purple_acting_2: -600071907
+      purple_acting_20: -1102635400
+      purple_acting_21: -771140805
+      purple_acting_22: 1838373456
+      purple_acting_23: 743921855
+      purple_acting_24: -1753487198
+      purple_acting_25: -1722006372
+      purple_acting_26: -2135536792
+      purple_acting_27: 372780658
+      purple_acting_28: 1925115053
+      purple_acting_29: 967465848
+      purple_acting_3: -1471399146
+      purple_acting_30: 810889085
+      purple_acting_31: -520907148
+      purple_acting_32: -1321913815
+      purple_acting_33: 30219407
+      purple_acting_34: 1589375003
+      purple_acting_35: 1858832395
+      purple_acting_36: -536201991
+      purple_acting_37: 1035767643
+      purple_acting_38: -1544686313
+      purple_acting_39: 87095920
+      purple_acting_4: 1480772624
+      purple_acting_40: -1051334582
+      purple_acting_41: -1141697128
+      purple_acting_42: 1251338417
+      purple_acting_43: 1726974918
+      purple_acting_44: 1569785529
+      purple_acting_45: 232860775
+      purple_acting_46: 2041233821
+      purple_acting_47: -857976580
+      purple_acting_48: 728806265
+      purple_acting_49: 1398736095
+      purple_acting_5: 927068828
+      purple_acting_50: 1406828138
+      purple_acting_51: 770158605
+      purple_acting_52: -2089601468
+      purple_acting_53: 2141252134
+      purple_acting_54: -1719400106
+      purple_acting_55: -302706922
+      purple_acting_56: 1327607209
+      purple_acting_57: 1875694683
+      purple_acting_58: 2123339493
+      purple_acting_59: 615230498
+      purple_acting_6: -307805683
+      purple_acting_60: -1507426631
+      purple_acting_61: -1335625606
+      purple_acting_62: -1129878375
+      purple_acting_63: -955029648
+      purple_acting_64: 1011992036
+      purple_acting_65: -283424972
+      purple_acting_66: -1150673488
+      purple_acting_67: 500388414
+      purple_acting_68: -1459093198
+      purple_acting_69: 1751382793
+      purple_acting_7: -984148402
+      purple_acting_70: 1902510269
+      purple_acting_71: 1318235745
+      purple_acting_72: -1446516996
+      purple_acting_73: 470942842
+      purple_acting_74: 524633389
+      purple_acting_75: -2073565681
+      purple_acting_76: -247752514
+      purple_acting_77: -378653745
+      purple_acting_78: 298971519
+      purple_acting_79: 1601881020
+      purple_acting_8: 197620251
+      purple_acting_80: 906233515
+      purple_acting_81: -2140762466
+      purple_acting_82: -999803503
+      purple_acting_83: 324726552
+      purple_acting_84: -1526333591
+      purple_acting_85: 1373168718
+      purple_acting_9: -1081421145
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

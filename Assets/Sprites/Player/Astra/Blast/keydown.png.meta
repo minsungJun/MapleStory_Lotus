@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: d976f6abcc8b34e479e537f6d3d30aea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: keydown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511575ea6c821c147bf8b9a713a1ff93
+      internalID: 1042275485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_1
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3456
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea7690f7d9fc024d9b7b22fb56146bb
+      internalID: 343037238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_2
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3456
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df83a91feb12b147bca2658d028c5e8
+      internalID: 1761249620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_3
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3456
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb29a292c8e298349bf0a0ab4fab3dc7
+      internalID: -876419102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc91adbf9312c2f4aa2cb4388acd03d2
+      internalID: -1328909222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_5
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2880
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473d1d92ab6ca3f49a7b69864b486de4
+      internalID: -1887479145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_6
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2880
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342154ae969d8ee43bd3623a3f79b918
+      internalID: 1583834290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_7
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2880
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793016943a4ac9947be6c0f1182fc75a
+      internalID: 70676178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c732a45aa7559c7448243e5bcfa497bf
+      internalID: -1433975282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_9
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2304
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c276f702bd5d3443bea3d1a6ef064cf
+      internalID: -1440553767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_10
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2304
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93386e3f7b394ac46b215752a9555c14
+      internalID: 410826742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2304
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39a12776711d474a967fbb8e4b5b2d4
+      internalID: 479242008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a9a9675a7c74d44a30fadf4091a3f9
+      internalID: -1260136613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_13
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1728
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df47e8b963d87d43bb2ba09bb2f3845
+      internalID: 2004571145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_14
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1728
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7057aefc596ebf0499d779502fd696a2
+      internalID: -367483439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_15
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1728
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a1cf75249460e47a308f317a10d45b
+      internalID: 1242202953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843020b53e4d3c942a43d82b31424a6d
+      internalID: -2111404646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_17
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1152
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f61470244b63314eaed4386cbb5a53c
+      internalID: 1821796469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_18
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1152
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9fb9f28115dfd418da4495886ea7c1
+      internalID: 1691643012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_19
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1152
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34d881afec7cc54fbf4f2703f407a71
+      internalID: -429195349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca180aae8382e0644b0ae33a7473b65e
+      internalID: 1582031943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_21
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 576
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18da39ee6060e24dbc0b8520bbc9795
+      internalID: 102095150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_22
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 576
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de3a2e620a34754ca79273e12f2a3c7
+      internalID: 2032975151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_23
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 576
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0307072c79ecbc84ea771f6ac480c8c3
+      internalID: -2067543971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92efb0a94d7ce3e47a5efa2c85f06ff4
+      internalID: -567530438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_25
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfc712b69d0b404eaa8fcc0a5c4337d
+      internalID: -1087386044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_26
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ac9c82987d2884a9c7b6e0fab65db5
+      internalID: -1605654896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keydown_27
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 1100
+        height: 576
+      alignment: 9
+      pivot: {x: 0.628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253599b0709be2546b5135c0b845a315
+      internalID: 405072248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      keydown_0: 1042275485
+      keydown_1: 343037238
+      keydown_10: 410826742
+      keydown_11: 479242008
+      keydown_12: -1260136613
+      keydown_13: 2004571145
+      keydown_14: -367483439
+      keydown_15: 1242202953
+      keydown_16: -2111404646
+      keydown_17: 1821796469
+      keydown_18: 1691643012
+      keydown_19: -429195349
+      keydown_2: 1761249620
+      keydown_20: 1582031943
+      keydown_21: 102095150
+      keydown_22: 2032975151
+      keydown_23: -2067543971
+      keydown_24: -567530438
+      keydown_25: -1087386044
+      keydown_26: -1605654896
+      keydown_27: 405072248
+      keydown_3: -876419102
+      keydown_4: -1328909222
+      keydown_5: -1887479145
+      keydown_6: 1583834290
+      keydown_7: 70676178
+      keydown_8: -1433975282
+      keydown_9: -1440553767
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

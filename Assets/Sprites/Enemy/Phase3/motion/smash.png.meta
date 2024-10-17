@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: 675413d95d1cda8449281322ccbe2a4c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3488
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4838a6bb95428324e97f2adc0caee4e8
+      internalID: 1380976235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_1
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3488
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e023864670464eb5710823a7d059d
+      internalID: 133811504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_2
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 3488
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3f99b2cf5d2f241b23b888fd592c8e
+      internalID: -1322802708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_3
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 3488
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8554168f10cb864f9f547f240de8fe4
+      internalID: 1442763923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3052
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae210659700c45f46ac9b895d7bd1629
+      internalID: -1190245594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_5
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3052
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521c9daf0a410664198c10f8dc8f4f68
+      internalID: 112162529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_6
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 3052
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3494e5acdfae1147aa31faa15e763e7
+      internalID: -2105370944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_7
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 3052
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f07de406831ec49a94d5937bb1c57d
+      internalID: -222247863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2616
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553fcdb31dde6234088c1c2ee4e4caae
+      internalID: 1501569998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2616
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43d5e100816d824c88bcaf63e176b3e
+      internalID: 653332300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_10
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2616
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6b7ce43749acf418e14a49950111c5
+      internalID: -489086555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_11
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2616
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3f45d78838fef42985dc9a9045f914
+      internalID: -158845383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2180
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f84faabe16ca44381576c5309220af
+      internalID: 460890037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_13
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2180
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4fa0bd09d33064e86195aeb8ed4e25
+      internalID: 1812884775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_14
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2180
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7189bccf97aad438284c00f71fe5dd
+      internalID: -93173150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_15
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2180
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157c28cdb6b4bd841bf1ccb00f5910bb
+      internalID: 1376019955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1744
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c8c62ebb3fdba42ac09d1b7e23cf73
+      internalID: -234701257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_17
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1744
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430326732c21e6c4eb10b011475b4491
+      internalID: -1531076316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_18
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1744
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b409101365b7b468859621c57cd865
+      internalID: 348592503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_19
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1744
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844894b44b1348845b32b3385ee98aa9
+      internalID: 1171951712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1308
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c6714e410946843a5bcb14940db48d
+      internalID: -1237908934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_21
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1308
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7344cae97208bc4389f18a21240307c
+      internalID: -2138011674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_22
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1308
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca6cb407c87cff4fb3e28e232833edc
+      internalID: -411956152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_23
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1308
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b14c4ebb8ef1244e8c57683152f4468
+      internalID: 1813632118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700fbcebec1251544a15151a3bc1f233
+      internalID: 1254306946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_25
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 872
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff0550e38470204d9a599d85c5ae75b
+      internalID: -1977379127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_26
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 872
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78111ec088d8734db97c307906bc78e
+      internalID: 2075731281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_27
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 872
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8378aacfb7351f148a31a927e162cb25
+      internalID: -40342723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbbed8f6bd81d94ead543951468eb9b
+      internalID: 1586215046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_29
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 436
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d58f619b2f50948a1249f7cf0d6c78
+      internalID: 1797611606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_30
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 436
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8908a1ace89b84447baa2bb3fa5f47bd
+      internalID: -706605734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_31
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 436
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4811b405f1c1344ac2c6f01e2e3dbd
+      internalID: 1492505774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722dcee6ec0dc4642bad0384798c8412
+      internalID: 791898160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_33
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea3f543ef83df3409291fc6d80d09f8
+      internalID: 1677200310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smash_34
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 0
+        width: 771
+        height: 436
+      alignment: 9
+      pivot: {x: 0.6168, y: 0.4255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f39ac5d08ded8948aec620619a93280
+      internalID: -1128997183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      smash_0: 1380976235
+      smash_1: 133811504
+      smash_10: -489086555
+      smash_11: -158845383
+      smash_12: 460890037
+      smash_13: 1812884775
+      smash_14: -93173150
+      smash_15: 1376019955
+      smash_16: -234701257
+      smash_17: -1531076316
+      smash_18: 348592503
+      smash_19: 1171951712
+      smash_2: -1322802708
+      smash_20: -1237908934
+      smash_21: -2138011674
+      smash_22: -411956152
+      smash_23: 1813632118
+      smash_24: 1254306946
+      smash_25: -1977379127
+      smash_26: 2075731281
+      smash_27: -40342723
+      smash_28: 1586215046
+      smash_29: 1797611606
+      smash_3: 1442763923
+      smash_30: -706605734
+      smash_31: 1492505774
+      smash_32: 791898160
+      smash_33: 1677200310
+      smash_34: -1128997183
+      smash_4: -1190245594
+      smash_5: 112162529
+      smash_6: -2105370944
+      smash_7: -222247863
+      smash_8: 1501569998
+      smash_9: 653332300
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

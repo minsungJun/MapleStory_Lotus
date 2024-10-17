@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: a8c005b3d5df1d34499dcf6028af76cc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1944
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac0e103cc1cfcb44b179df68fdacce4
+      internalID: 1906335568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1944
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762e1369cee45124f8186670e3242f0a
+      internalID: -1066104534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1944
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d5945fac54d141a836f5c1d3f8d9b
+      internalID: -1047566554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1944
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6614033ac57198845ace9c28ebdea63d
+      internalID: -829386339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1458
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2258af87f0ba9741bbf4fcee6802869
+      internalID: -902817211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1458
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0bb02da2cdac945ad4fedaf50ec6b5
+      internalID: -1311748509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_6
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1458
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226d929187310314ea5b9f4441e812dc
+      internalID: -35601936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1458
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb90621d7fbbe24d9aaf22c0c477e93
+      internalID: 739315139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15818dd65331c047a3be88432e0216e
+      internalID: -1532716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 972
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1818f8f49808c438eb9c25b2745216
+      internalID: 414460861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 972
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f74908281ed9054692b722f09740f27
+      internalID: -2129510628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_11
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 972
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86046d7c62c0eff4283a055f4c1a6244
+      internalID: -1450127680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81c91df3de31644d99bdeaa057161bc
+      internalID: 1200441261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 486
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23042d50681a5f44c98504be6050542d
+      internalID: -599057658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 486
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b50dcc7354ebe42bc08a88fee288a5
+      internalID: -1248337974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_15
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 486
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2daa1cfd9ee72848994ca84d005c633
+      internalID: -1736012826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slow_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 259
+        height: 486
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac99b5ab6ac859f4e8439aac11ec0dee
+      internalID: -1897171645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      slow_0: 1906335568
+      slow_1: -1066104534
+      slow_10: -2129510628
+      slow_11: -1450127680
+      slow_12: 1200441261
+      slow_13: -599057658
+      slow_14: -1248337974
+      slow_15: -1736012826
+      slow_16: -1897171645
+      slow_2: -1047566554
+      slow_3: -829386339
+      slow_4: -902817211
+      slow_5: -1311748509
+      slow_6: -35601936
+      slow_7: 739315139
+      slow_8: -1532716
+      slow_9: 414460861
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

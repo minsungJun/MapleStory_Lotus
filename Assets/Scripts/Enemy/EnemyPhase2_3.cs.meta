@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 1ab4ef292f7a5104db1155290551ef35
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - Knockback_attack: {fileID: 382369204661764704, guid: 5e65af7d47be5964e9cab40535a5a302, type: 3}
+  - elec_circle: {fileID: 5532229234486668694, guid: d9e25c3eeaf1f484083ab171e4e83e72, type: 3}
+  - gravity: {fileID: 1080448856451295137, guid: fee9783588fe0324dbe33108c2dbdac5, type: 3}
+  - elec_line_Obj: {fileID: 7817360021544061297, guid: a13d08db2a250bf4fae9c145471486c4, type: 3}
+  - elec_line: {fileID: 1303723357219281498, guid: 577d5628a758176489d63378c9d51e73, type: 3}
+  - falling_xs: {fileID: 2696854252793603266, guid: 7d42e0658ab1d0e42aaad8bc587b95b9, type: 3}
+  - falling_s: {fileID: 3868931833482604725, guid: f86d35ef5ee79ce4d8d08e182da5486b, type: 3}
+  - falling_m: {fileID: 5884351793169007743, guid: cda4900ec4a815b40be066401f701cb0, type: 3}
+  - falling_l: {fileID: 8974141520350851224, guid: 9b9714dd99e37f64f87c721bf3ca9bd5, type: 3}
+  - falling_xl: {fileID: 8533927680002309365, guid: 6b70055a7ade4594aa8dc9e543662bfa, type: 3}
+  - shootTransform: {instanceID: 0}
+  - shootTransform_center: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
